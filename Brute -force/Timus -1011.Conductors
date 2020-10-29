@@ -1,0 +1,28 @@
+//https://acm.timus.ru/problem.aspx?space=1&num=1011
+//try the problem yourself first.
+
+  double P, Q;
+
+    cin >> P >> Q;
+
+    ll pep = 0;
+    while (1)
+    {
+
+        pep += 1;
+        double eps = 0.0000001;
+
+        double high = (Q * pep / 100);
+        double low = P * pep / 100;
+
+        low += eps;
+        high -= eps;
+
+        ll L = (ceil)(high);
+        ll R = (floor)(low);
+
+        if (L - R >= 2)
+            return cout << pep, 0;
+    }
+    
+    
