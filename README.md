@@ -4,6 +4,7 @@ Here i will add some interesting problems under specified topic that i solve on 
 Only the problems in which i encounter some new idea , or i find interesting , shall be added.
 
 I will also add source codes to some problems (may be not complete program but only relevant part).
+Link to the code part is given after the problem link. However , you should only check that out in case you are really stuck for a while .
 
 
 Geometry :
@@ -22,5 +23,8 @@ Geometry :
   *  https://codeforces.com/contest/1437/problem/C        (recursion is easy :)     ) 
  
  
- 
+  
+  brute - Force :
+  *   https://acm.timus.ru/problem.aspx?space=1&num=1011
+      ( https://github.com/vavy06/Competitive-Programming/blob/main/Brute%20-force/Timus%20-1011.Conductors )                                 
  
