@@ -8,7 +8,7 @@ I will also add source codes to some problems (may be not complete program but o
 
 Geometry :
 * https://acm.timus.ru/problem.aspx?space=1&num=1084   
- - (easy geometry ; use pi = acos(-1)  )
+   (easy geometry ; use pi = acos(-1)  )
  
  
  Games :
