@@ -7,18 +7,18 @@ I will also add source codes to some problems (may be not complete program but o
 
 
 Geometry :
-* https://acm.timus.ru/problem.aspx?space=1&num=1084   
+*  https://acm.timus.ru/problem.aspx?space=1&num=1084   
    (easy geometry ; use pi = acos(-1)  )
  
  
  Games :
- * https://acm.timus.ru/problem.aspx?space=1&num=1023
-  ( watch out what are the numbers that you would like second player to be  on ? )
+ *  https://acm.timus.ru/problem.aspx?space=1&num=1023
+   ( watch out what are the numbers that you would like second player to be  on ? )
   
   
   DP :
-  * https://acm.timus.ru/problem.aspx?space=1&num=1017
- 
+  *  https://acm.timus.ru/problem.aspx?space=1&num=1017
+  *  https://acm.timus.ru/problem.aspx?space=1&num=1073   ( stuck ??  try recursive :)   )
  
  
  
