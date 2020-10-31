@@ -38,5 +38,3 @@ rep(j ,n) {
 
 }
 
-
-for(i=0 ; i<=n-1 ; i++) cout<< mp[i] <<"\n";
