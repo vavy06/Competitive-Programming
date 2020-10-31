@@ -1,0 +1,42 @@
+https://acm.timus.ru/problem.aspx?space=1&num=1028
+// solve yourself first .
+
+
+ll bt[100000] ;     // binary tree
+
+void update(ll idx ){
+
+for( ; idx <= 32002 ; idx += (idx&-idx))
+
+    bt[idx]++;
+
+}
+
+ll getsum(ll idx){
+
+ll s = 0 ; 
+for( ; idx >0 ; idx -= (idx&-idx))
+       s += bt[idx]  ;
+
+       return s ;
+
+}
+
+// main 
+
+cin>>n ;
+
+rep(j ,n) { 
+    
+    cin>>x>>y ;
+     x++ ; y++ ;
+     ll level = getsum(x) ;
+     mp[level]++ ;
+     
+     
+     update(x) ;
+
+}
+
+
+for(i=0 ; i<=n-1 ; i++) cout<< mp[i] <<"\n";
