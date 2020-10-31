@@ -24,8 +24,13 @@ Geometry :
  
  
   
-  brute - Force :
+  Brute - Force :
   *   https://acm.timus.ru/problem.aspx?space=1&num=1011
   
    code :- https://github.com/vavy06/Competitive-Programming/blob/main/Brute%20-force/Timus%20-1011.Conductors                                  
  
+ 
+ Data - Structures :
+ *   https://acm.timus.ru/problem.aspx?space=1&num=1028
+ 
+  code :-  
