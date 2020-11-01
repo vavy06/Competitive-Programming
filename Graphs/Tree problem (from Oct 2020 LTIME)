@@ -1,0 +1,35 @@
+problem link : https://www.codechef.com/LTIME89B/problems/SUBMEXS
+
+
+// this function finds subtree size for each node 
+
+int calc(int node , int par)
+ {
+sub[node] = 1 ;
+
+for(auto h : v[node])
+     if(h != par)
+    sub[node] += calc(h , node) ;
+
+return  sub[node] ;
+
+ }
+
+// this does the main job 
+int dfs(int node ,  int par  )
+{
+
+  dp[node] = 1 ;
+   for(auto h : v[node] )  
+  {     if(h == par ) continue ;     
+     ll res = dfs(h , node) ;
+    dp[node] = max(dp[node] , res + sub[node] )  ;
+
+   } 
+
+return dp[node] ;
+
+}
+
+
+// you can now just output dp[1].
