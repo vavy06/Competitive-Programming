@@ -34,3 +34,12 @@ Geometry :
  *   https://acm.timus.ru/problem.aspx?space=1&num=1028
  
   code :-  https://github.com/vavy06/Competitive-Programming/blob/main/Data%20Structures/Fenwick%20tree(BIT)
+  
+  
+  Graphs  :
+  *  https://www.codechef.com/problems/SUBMEXS    (basic dp on trees )
+    code :-  
+
+
+
+
