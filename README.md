@@ -21,7 +21,7 @@ Geometry :
   *  https://acm.timus.ru/problem.aspx?space=1&num=1017
   *  https://acm.timus.ru/problem.aspx?space=1&num=1073   ( stuck ??  try recursive :)   )
   *  https://codeforces.com/contest/1437/problem/C        (recursion is easy :)     ) 
- 
+   * https://acm.timus.ru/problem.aspx?space=1&num=1146    
  
   
   Brute - Force :
