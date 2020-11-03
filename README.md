@@ -15,7 +15,7 @@ Geometry :
  Games :
  *  https://acm.timus.ru/problem.aspx?space=1&num=1023
    ( watch out what are the numbers that you would like second player to be  on ? )
-  
+  * https://acm.timus.ru/problem.aspx?space=1&num=1180   (again easy )
   
   DP :
   *  https://acm.timus.ru/problem.aspx?space=1&num=1017
