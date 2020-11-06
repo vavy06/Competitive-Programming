@@ -17,12 +17,15 @@ Geometry :
    ( watch out what are the numbers that you would like second player to be  on ? )
   * https://acm.timus.ru/problem.aspx?space=1&num=1180   (again easy )
   
+  
   DP :
   *  https://acm.timus.ru/problem.aspx?space=1&num=1017
   *  https://acm.timus.ru/problem.aspx?space=1&num=1073   ( stuck ??  try recursive :)   )
   *  https://codeforces.com/contest/1437/problem/C        (recursion is easy :)     ) 
   *  https://acm.timus.ru/problem.aspx?space=1&num=1146    
-  *  https://codeforces.com/problemset/problem/118/D (yes , you can take long long array of size 5000*5000 :)    )     
+  *   https://codeforces.com/contest/467/problem/C (yes , you can take long long array of size 5000*5000 :)    )     
+  *   https://codeforces.com/contest/118/problem/D
+  
   
   Brute - Force :
   *   https://acm.timus.ru/problem.aspx?space=1&num=1011
@@ -34,6 +37,7 @@ Geometry :
  *   https://acm.timus.ru/problem.aspx?space=1&num=1028
   code :-  https://github.com/vavy06/Competitive-Programming/blob/main/Data%20Structures/Fenwick%20tree(BIT)
   *   https://codeforces.com/contest/339/problem/D
+  
   
   Graphs  :
   *  https://www.codechef.com/problems/SUBMEXS    (basic dp on trees )
