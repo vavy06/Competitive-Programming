@@ -45,5 +45,7 @@ Geometry :
    code :-  https://github.com/vavy06/Competitive-Programming/blob/main/Graphs/Tree%20problem%20(from%20Oct%202020%20LTIME)
 
 
+ Implementation and ad-hoc :
+ *  https://codeforces.com/problemset/problem/486/C
 
 
