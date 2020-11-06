@@ -21,8 +21,8 @@ Geometry :
   *  https://acm.timus.ru/problem.aspx?space=1&num=1017
   *  https://acm.timus.ru/problem.aspx?space=1&num=1073   ( stuck ??  try recursive :)   )
   *  https://codeforces.com/contest/1437/problem/C        (recursion is easy :)     ) 
-   * https://acm.timus.ru/problem.aspx?space=1&num=1146    
- 
+  *  https://acm.timus.ru/problem.aspx?space=1&num=1146    
+  *  https://codeforces.com/problemset/problem/118/D (yes , you can take long long array of size 5000*5000 :)    )     
   
   Brute - Force :
   *   https://acm.timus.ru/problem.aspx?space=1&num=1011
@@ -30,11 +30,10 @@ Geometry :
    code :- https://github.com/vavy06/Competitive-Programming/blob/main/Brute%20-force/Timus%20-1011.Conductors                                  
  
  
- Data - Structures :
+ Data - Structures (Segment tree , BIT ) :
  *   https://acm.timus.ru/problem.aspx?space=1&num=1028
- 
   code :-  https://github.com/vavy06/Competitive-Programming/blob/main/Data%20Structures/Fenwick%20tree(BIT)
-  
+  *   https://codeforces.com/contest/339/problem/D
   
   Graphs  :
   *  https://www.codechef.com/problems/SUBMEXS    (basic dp on trees )
