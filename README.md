@@ -26,9 +26,11 @@ Geometry :
   *   https://codeforces.com/contest/467/problem/C (yes , you can take long long array of size 5000*5000 :)    )     
   *   https://codeforces.com/contest/118/problem/D
   
+  
   Strings :
    *  https://codeforces.com/contest/126/problem/B  (read : prefix function of KMP )  
-    (code :- 
+     code -: https://github.com/vavy06/Competitive-Programming/blob/main/Strings/Prefix%20function%20of%20KMP%20implementation%20problem
+     
   
   Brute - Force :
   *   https://acm.timus.ru/problem.aspx?space=1&num=1011
