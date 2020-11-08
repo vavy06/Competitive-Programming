@@ -52,4 +52,7 @@ Geometry :
  Implementation and ad-hoc :
  *  https://codeforces.com/problemset/problem/486/C
 
-
+ Bits :
+ * https://codeforces.com/problemset/problem/1325/D 
+ (hint : try to change a+b to a&b ).
+ 
