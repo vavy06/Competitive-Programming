@@ -29,7 +29,7 @@ Geometry :
   
   Strings :
    *  https://codeforces.com/contest/126/problem/B  (read : prefix function of KMP )  
-   
+   *  https://codeforces.com/problemset/problem/559/B  ( try hashing)
   
   Brute - Force :
   *   https://acm.timus.ru/problem.aspx?space=1&num=1011
