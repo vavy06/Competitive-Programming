@@ -48,6 +48,10 @@ Geometry :
   
    code :-  https://github.com/vavy06/Competitive-Programming/blob/main/Graphs/Tree%20problem%20(from%20Oct%202020%20LTIME)
 
+  *  https://codeforces.com/problemset/problem/427/C
+  
+  (hint : Kosaraju's algorithm for SCC )
+
 
  Implementation and ad-hoc :
  *  https://codeforces.com/problemset/problem/486/C
