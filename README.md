@@ -53,8 +53,10 @@ Geometry :
   (hint : Kosaraju's algorithm for SCC )
 
 
- Implementation and ad-hoc :
+ Implementation , ad-hoc , Greedy :
  *  https://codeforces.com/problemset/problem/486/C
+ *  https://codeforces.com/problemset/problem/1393/C
+ 
 
  Bits :
  * https://codeforces.com/problemset/problem/1325/D 
