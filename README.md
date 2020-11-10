@@ -31,11 +31,6 @@ Geometry :
    *  https://codeforces.com/contest/126/problem/B  (read : prefix function of KMP )  
    *  https://codeforces.com/problemset/problem/559/B  ( try hashing)
   
-  Brute - Force :
-  *   https://acm.timus.ru/problem.aspx?space=1&num=1011
-  
-   code :- https://github.com/vavy06/Competitive-Programming/blob/main/Brute%20-force/Timus%20-1011.Conductors                                  
- 
  
  Data - Structures (Segment tree , BIT ) :
  *   https://acm.timus.ru/problem.aspx?space=1&num=1028
@@ -53,10 +48,15 @@ Geometry :
   (hint : Kosaraju's algorithm for SCC )
 
 
- Implementation , ad-hoc , Greedy :
+ Implementation , ad-hoc , Greedy , Brute-force :
  *  https://codeforces.com/problemset/problem/486/C
  *  https://codeforces.com/problemset/problem/1393/C
+ *  https://codeforces.com/problemset/problem/1335/E1
+ *  https://acm.timus.ru/problem.aspx?space=1&num=1011
  
+      code :- https://github.com/vavy06/Competitive-Programming/blob/main/Brute%20-force/Timus%20-1011.Conductors  
+      
+      
 
  Bits :
  * https://codeforces.com/problemset/problem/1325/D 
