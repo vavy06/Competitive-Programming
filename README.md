@@ -25,6 +25,8 @@ Geometry :
   *  https://acm.timus.ru/problem.aspx?space=1&num=1146    
   *   https://codeforces.com/contest/467/problem/C (yes , you can take long long array of size 5000*5000 :)    )     
   *   https://codeforces.com/contest/118/problem/D
+  *   https://codeforces.com/problemset/problem/225/C
+  
   
   Number Theory :
   *  https://codeforces.com/contest/1260/problem/C
