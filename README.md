@@ -26,6 +26,11 @@ Geometry :
   *   https://codeforces.com/contest/467/problem/C (yes , you can take long long array of size 5000*5000 :)    )     
   *   https://codeforces.com/contest/118/problem/D
   
+  Number Theory :
+  *  https://codeforces.com/contest/1260/problem/C
+      (Hint : think in terms of gcd )
+  
+  
   
   Strings :
    *  https://codeforces.com/contest/126/problem/B  (read : prefix function of KMP )  
