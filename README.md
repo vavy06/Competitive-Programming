@@ -27,7 +27,7 @@ Geometry :
   *   https://codeforces.com/contest/118/problem/D
   *   https://codeforces.com/problemset/problem/225/C
   *   https://codeforces.com/problemset/problem/1061/C
-  
+  *   https://codeforces.com/problemset/problem/1249/E
   
   
   Number Theory :
