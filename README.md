@@ -58,7 +58,10 @@ Geometry :
   (hint : Kosaraju's algorithm for SCC )
   *  https://codeforces.com/problemset/problem/1144/F
       (hint : check bipartiteness )
-      
+   *  https://codeforces.com/problemset/problem/1209/D
+   
+   
+   
 
  Implementation , ad-hoc , Greedy , Brute-force :
  *  https://codeforces.com/problemset/problem/486/C
