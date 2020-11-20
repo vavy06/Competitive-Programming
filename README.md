@@ -56,7 +56,9 @@ Geometry :
   *  https://codeforces.com/problemset/problem/427/C
   
   (hint : Kosaraju's algorithm for SCC )
-
+  *  https://codeforces.com/problemset/problem/1144/F
+      (hint : check bipartiteness )
+      
 
  Implementation , ad-hoc , Greedy , Brute-force :
  *  https://codeforces.com/problemset/problem/486/C
@@ -66,7 +68,9 @@ Geometry :
  
       code :- https://github.com/vavy06/Competitive-Programming/blob/main/Brute%20-force/Timus%20-1011.Conductors  
   * https://codeforces.com/problemset/problem/1301/C 
-      
+  
+  * https://codeforces.com/contest/1452/problem/B
+  
 
  Bits :
  * https://codeforces.com/problemset/problem/1325/D 
