@@ -70,6 +70,7 @@ Geometry :
   * https://codeforces.com/problemset/problem/1301/C 
   
   * https://codeforces.com/contest/1452/problem/B
+  * https://codeforces.com/contest/1257/problem/D
   
 
  Bits :
