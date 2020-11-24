@@ -62,7 +62,8 @@ Geometry :
   *  https://codeforces.com/problemset/problem/1144/F
       (hint : check bipartiteness )
    *  https://codeforces.com/problemset/problem/1209/D
-   
+   * https://codeforces.com/problemset/problem/919/D  
+   (hint: cycle detection in directed graph)
    
    
 
