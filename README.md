@@ -37,6 +37,8 @@ Geometry :
   Number Theory :
   *  https://codeforces.com/contest/1260/problem/C
       (Hint : think in terms of gcd )
+  *  https://codeforces.com/problemset/problem/833/A
+  
   
   
   
