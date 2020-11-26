@@ -31,7 +31,7 @@ Geometry :
   *   https://codeforces.com/problemset/problem/1249/E
   *   https://codeforces.com/problemset/problem/711/C   (  hint : try 3-D dp )
   *   https://codeforces.com/problemset/problem/1051/D
-  
+  *   https://codeforces.com/problemset/problem/1042/B   (hint: easy bitmasks)
   
   
   Number Theory :
