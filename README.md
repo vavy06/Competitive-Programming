@@ -70,6 +70,8 @@ Geometry :
    (hint: cycle detection in directed graph)
    *  https://codeforces.com/problemset/problem/1027/D
      (hint :  i did by Kosaraju algorithm)
+   *  https://codeforces.com/contest/1454/problem/E
+   
    
 
  Implementation , ad-hoc , Greedy , Brute-force :
