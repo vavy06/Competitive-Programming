@@ -87,6 +87,7 @@ Geometry :
   * https://codeforces.com/contest/1452/problem/B
   * https://codeforces.com/contest/1257/problem/D
   * https://codeforces.com/problemset/problem/1141/E
+  * https://codeforces.com/problemset/problem/1106/B
   
   
 
