@@ -95,3 +95,7 @@ Geometry :
  (hint : try to change a+b to a&b ).
  *  https://codeforces.com/problemset/problem/276/D
  
+ 
+ Combinatorics :
+ * https://codeforces.com/problemset/problem/553/A
+ 
