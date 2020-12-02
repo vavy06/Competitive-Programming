@@ -73,6 +73,7 @@ Geometry :
    *  https://codeforces.com/problemset/problem/1027/D
      (hint :  i did by Kosaraju algorithm)
    *  https://codeforces.com/contest/1454/problem/E
+   *  https://codeforces.com/contest/689/problem/B
    
    
 
