@@ -92,6 +92,7 @@ Geometry :
   * https://codeforces.com/problemset/problem/332/B
   * https://codeforces.com/problemset/problem/1119/C
   * https://codeforces.com/problemset/problem/197/A
+  * https://codeforces.com/problemset/problem/1163/B2
   
 
  Bits :
