@@ -96,6 +96,8 @@ Link to the code part is given after the problem link. However , you should only
   * https://codeforces.com/problemset/problem/1119/C
   * https://codeforces.com/problemset/problem/197/A
   * https://codeforces.com/problemset/problem/1163/B2
+  * https://codeforces.com/problemset/problem/734/C
+  
   
 
  Bits :
