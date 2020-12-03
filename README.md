@@ -1,4 +1,5 @@
-# Competitive-Programming
+## Competitive-Programming
+
 Here i will add some interesting problems under specified topic that i solve on online judges.   
 
 Only the problems in which i encounter some new idea , or i find interesting , shall be added.
@@ -7,12 +8,12 @@ I will also add source codes to some problems (may be not complete program but o
 Link to the code part is given after the problem link. However , you should only check that out in case you are really stuck for a while .
 
 
-Geometry :
+#Geometry :
 *  https://acm.timus.ru/problem.aspx?space=1&num=1084   
    (easy geometry ; use pi = acos(-1)  )
  
  
- Games :
+ #Games :
  *  https://acm.timus.ru/problem.aspx?space=1&num=1023
    ( watch out what are the numbers that you would like second player to be  on ? )
   * https://acm.timus.ru/problem.aspx?space=1&num=1180   (again easy )
@@ -74,7 +75,8 @@ Geometry :
      (hint :  i did by Kosaraju algorithm)
    *  https://codeforces.com/contest/1454/problem/E
    *  https://codeforces.com/contest/689/problem/B
-   
+   *  https://codeforces.com/problemset/problem/986/A   
+   (#hint : multisource bfs)
    
 
  Implementation , ad-hoc , Greedy , Brute-force :
