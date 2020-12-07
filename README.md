@@ -113,3 +113,6 @@ Link to the code part is given after the problem link. However , you should only
  Combinatorics :
  * https://codeforces.com/problemset/problem/553/A
  
+ 
+ Binary - search :
+ * https://codeforces.com/problemset/problem/448/D
