@@ -11,6 +11,7 @@ Link to the code part is given after the problem link. However , you should only
 #Geometry :
 *  https://acm.timus.ru/problem.aspx?space=1&num=1084   
    (easy geometry ; use pi = acos(-1)  )
+ * https://codeforces.com/contest/1462/problem/F
  
  
  #Games :
