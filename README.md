@@ -107,6 +107,8 @@ Link to the code part is given after the problem link. However , you should only
   * https://codeforces.com/contest/1450/problem/C1  (also do C2 )
   * https://codeforces.com/problemset/problem/1355/C
   * https://codeforces.com/problemset/problem/1367/D
+  * https://codeforces.com/contest/1463/problem/A
+  * https://codeforces.com/contest/1463/problem/B
   
 
  Bits :
