@@ -110,6 +110,7 @@ Link to the code part is given after the problem link. However , you should only
   * https://codeforces.com/contest/1463/problem/A
   * https://codeforces.com/contest/1463/problem/B
   * https://codeforces.com/contest/1463/problem/C
+  * https://codeforces.com/contest/1459/problem/B
   
 
  Bits :
