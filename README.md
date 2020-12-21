@@ -119,6 +119,7 @@ Link to the code part is given after the problem link. However , you should only
  * https://codeforces.com/problemset/problem/1325/D 
  (hint : try to change a+b to a&b ).
  *  https://codeforces.com/problemset/problem/276/D
+ *  https://www.codechef.com/LTIME90B/problems/XORCOMP   (tip : use (x^n) instead of x^n    :)   )
  
  
  Combinatorics :
