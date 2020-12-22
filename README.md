@@ -114,7 +114,8 @@ Link to the code part is given after the problem link. However , you should only
   * https://codeforces.com/contest/1463/problem/C
   * https://codeforces.com/contest/1459/problem/B
   * https://codeforces.com/problemset/problem/1335/E2
-
+  * https://www.codechef.com/problems/UWCOI21C
+  
  Bits :
  * https://codeforces.com/problemset/problem/1325/D 
  (hint : try to change a+b to a&b ).
