@@ -40,7 +40,7 @@ Link to the code part is given after the problem link. However , you should only
   *   https://codeforces.com/problemset/problem/1328/D
   *   https://codeforces.com/problemset/problem/1286/A
   *   https://codeforces.com/problemset/problem/1221/D  (easy )
-  
+  *   https://codeforces.com/problemset/problem/839/D ( + NT )
   
   Number Theory :
   *  https://codeforces.com/contest/1260/problem/C
