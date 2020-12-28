@@ -119,6 +119,7 @@ Link to the code part is given after the problem link. However , you should only
   * https://www.codechef.com/problems/UWCOI21C
   * https://codeforces.com/problemset/problem/547/A  (mathy )
   * https://codeforces.com/gym/309132/problem/B
+  * https://codeforces.com/contest/1469/problem/D
   
   
  Bits :
