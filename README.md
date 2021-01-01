@@ -50,7 +50,7 @@ Link to the code part is given after the problem link. However , you should only
   *  https://codeforces.com/contest/1459/problem/C
   *  https://www.codechef.com/COOK125B/problems/CIRCHAOS
   *  https://codeforces.com/problemset/problem/1316/C
-  
+  *  https://codeforces.com/contest/1034/problem/A   (strict time limit )
   
   Strings :
    *  https://codeforces.com/contest/126/problem/B  (read : prefix function of KMP )  
