@@ -19,6 +19,7 @@ Link to the code part is given after the problem link. However , you should only
    ( watch out what are the numbers that you would like second player to be  on ? )
   * https://acm.timus.ru/problem.aspx?space=1&num=1180   (again easy )
   * https://codeforces.com/problemset/problem/1194/D  (hint :  think about winning about losing positions)
+  * https://codeforces.com/gym/102911/problem/C   (with some NT )
   
   
   DP :
