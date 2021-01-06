@@ -91,6 +91,7 @@ Link to the code part is given after the problem link. However , you should only
    *  https://codeforces.com/problemset/problem/1320/B
    *  https://codeforces.com/problemset/problem/519/E   (binary lifting )
    *  https://codeforces.com/problemset/problem/1210/A 
+   *  https://codeforces.com/contest/1472/problem/G
    
 
  Implementation , ad-hoc , Greedy , Brute-force :
