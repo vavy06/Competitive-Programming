@@ -20,6 +20,7 @@ Link to the code part is given after the problem link. However , you should only
   * https://acm.timus.ru/problem.aspx?space=1&num=1180   (again easy )
   * https://codeforces.com/problemset/problem/1194/D  (hint :  think about winning about losing positions)
   * https://codeforces.com/gym/102911/problem/C   (with some NT )
+  * https://codeforces.com/problemset/problem/1190/B
   
   
   DP :
