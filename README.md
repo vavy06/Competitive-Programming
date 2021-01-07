@@ -43,6 +43,7 @@ Link to the code part is given after the problem link. However , you should only
   *   https://codeforces.com/problemset/problem/1221/D  (easy )
   *   https://codeforces.com/problemset/problem/839/D ( + NT )
   
+  
   Number Theory :
   *  https://codeforces.com/contest/1260/problem/C
       (Hint : think in terms of gcd )
@@ -126,7 +127,7 @@ Link to the code part is given after the problem link. However , you should only
   * https://codeforces.com/problemset/problem/547/A  (mathy )
   * https://codeforces.com/gym/309132/problem/B
   * https://codeforces.com/contest/1469/problem/D
-  
+  * https://codeforces.com/contest/1283/problem/D  (good implementation )
   
  Bits :
  * https://codeforces.com/problemset/problem/1325/D 
