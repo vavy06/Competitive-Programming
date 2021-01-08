@@ -61,7 +61,8 @@ Link to the code part is given after the problem link. However , you should only
   Strings :
    *  https://codeforces.com/contest/126/problem/B  (read : prefix function of KMP )  
    *  https://codeforces.com/problemset/problem/559/B  ( try hashing)
-  
+   *  https://codeforces.com/contest/519/problem/D
+   
  
  Data - Structures (Segment tree , BIT ) :
  *   https://acm.timus.ru/problem.aspx?space=1&num=1028
