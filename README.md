@@ -129,6 +129,8 @@ Link to the code part is given after the problem link. However , you should only
   * https://codeforces.com/gym/309132/problem/B
   * https://codeforces.com/contest/1469/problem/D
   * https://codeforces.com/contest/1283/problem/D  (good implementation )
+  * https://codeforces.com/contest/1244/problem/D
+  
   
  Bits :
  * https://codeforces.com/problemset/problem/1325/D 
