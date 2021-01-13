@@ -45,7 +45,7 @@ Link to the code part is given after the problem link. However , you should only
   *   https://codeforces.com/problemset/problem/839/D ( + NT )
   *   https://codeforces.com/problemset/problem/5/C
   *   https://codeforces.com/contest/1467/problem/D
-  
+  *   https://codeforces.com/contest/1096/problem/D   (well ,the hard part was to realize that greedy is wrong approach xD  )
   
   Number Theory :
   *  https://codeforces.com/contest/1260/problem/C
