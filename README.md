@@ -58,6 +58,7 @@ Link to the code part is given after the problem link. However , you should only
   *  https://codeforces.com/contest/1034/problem/A   (strict time limit )
   *  https://codeforces.com/problemset/problem/1295/D
   *  https://codeforces.com/contest/1471/problem/D
+  *  https://codeforces.com/problemset/problem/1152/C
   
   
   Strings :
