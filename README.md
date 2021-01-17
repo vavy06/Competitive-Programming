@@ -71,6 +71,8 @@ Link to the code part is given after the problem link. However , you should only
   code :-  https://github.com/vavy06/Competitive-Programming/blob/main/Data%20Structures/Fenwick%20tree(BIT)
   *   https://codeforces.com/contest/339/problem/D
   *  https://codeforces.com/problemset/problem/459/D
+  *  https://codeforces.com/problemset/problem/1354/D  (easy )
+  
   
   
   Graphs  :
