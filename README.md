@@ -101,6 +101,7 @@ Link to the code part is given after the problem link. However , you should only
    *  https://codeforces.com/problemset/problem/519/E   (binary lifting )
    *  https://codeforces.com/problemset/problem/1210/A 
    *  https://codeforces.com/contest/1472/problem/G
+   *  https://www.codechef.com/CDYN2021/problems/CTYTRA (prerequisite : LCA )
    
 
  Implementation , ad-hoc , Greedy , Brute-force :
