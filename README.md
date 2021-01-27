@@ -48,6 +48,7 @@ Link to the code part is given after the problem link. However , you should only
   *   https://codeforces.com/contest/1096/problem/D   (well ,the hard part was to realize that greedy is wrong approach xD  )
   *  https://www.codechef.com/problems/WIPL
   *   https://codeforces.com/problemset/problem/1353/E
+  *   https://codeforces.com/problemset/problem/2/B
   
   
   
