@@ -50,7 +50,7 @@ Link to the code part is given after the problem link. However , you should only
   *   https://codeforces.com/problemset/problem/1353/E
   *   https://codeforces.com/problemset/problem/2/B
   *   https://codeforces.com/problemset/problem/1427/C
-  
+  *   https://codeforces.com/problemset/problem/687/C
   
   
   Number Theory :
