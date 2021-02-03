@@ -80,6 +80,7 @@ Link to the code part is given after the problem link. However , you should only
   *  https://codeforces.com/problemset/problem/459/D
   *  https://codeforces.com/problemset/problem/1354/D  (easy )
   *  https://codeforces.com/contest/1454/problem/F
+  *  https://codeforces.com/problemset/problem/86/D
   
   
   Graphs  :
