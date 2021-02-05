@@ -109,7 +109,8 @@ Link to the code part is given after the problem link. However , you should only
    *  https://codeforces.com/problemset/problem/1210/A 
    *  https://codeforces.com/contest/1472/problem/G
    *  https://www.codechef.com/CDYN2021/problems/CTYTRA (prerequisite : LCA )
-   
+   *  https://codeforces.com/problemset/problem/1388/D  ( easy )
+
 
  Implementation , ad-hoc , Greedy , Brute-force :
  *  https://codeforces.com/problemset/problem/486/C
