@@ -111,7 +111,7 @@ Link to the code part is given after the problem link. However , you should only
    *  https://www.codechef.com/CDYN2021/problems/CTYTRA (prerequisite : LCA )
    *  https://codeforces.com/problemset/problem/1388/D  ( easy )
    *  https://codeforces.com/problemset/problem/1187/E
-   
+   *  https://codeforces.com/problemset/problem/999/E   (hint/prerequisite : SCC's )
    
 
  Implementation , ad-hoc , Greedy , Brute-force :
