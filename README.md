@@ -154,6 +154,7 @@ Link to the code part is given after the problem link. However , you should only
   * https://codeforces.com/contest/1474/problem/D
   * https://www.codechef.com/problems/RGAME
   * https://codeforces.com/contest/894/problem/C
+  * https://codeforces.com/problemset/problem/1380/D
   
   
  Bits :
