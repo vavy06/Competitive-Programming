@@ -52,7 +52,8 @@ Link to the code part is given after the problem link. However , you should only
   *   https://codeforces.com/problemset/problem/1427/C
   *   https://codeforces.com/problemset/problem/687/C
   *   https://codeforces.com/problemset/problem/1433/F
-  
+  *  https://codeforces.com/contest/366/problem/C
+  *  
   
   Number Theory :
   *  https://codeforces.com/contest/1260/problem/C
