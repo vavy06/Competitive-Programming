@@ -169,6 +169,7 @@ Link to the code part is given after the problem link. However , you should only
  *  https://www.codechef.com/LTIME90B/problems/XORCOMP   (tip : use (x^n) instead of x^n    :)   )
  *  https://codeforces.com/contest/1466/problem/E   (OVERFLOWS!! ) 
  *  https://codeforces.com/problemset/problem/1288/D
+ *  https://codeforces.com/contest/1054/problem/D
  
  
  Combinatorics :
