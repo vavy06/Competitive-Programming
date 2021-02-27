@@ -69,6 +69,7 @@ Link to the code part is given after the problem link. However , you should only
   *  https://codeforces.com/problemset/problem/1152/C
   *  https://codeforces.com/problemset/problem/1081/E
   *  https://codeforces.com/contest/1485/problem/C
+  *  https://codeforces.com/contest/959/problem/D
   
   
   Strings :
