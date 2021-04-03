@@ -166,6 +166,7 @@ Link to the code part is given after the problem link. However , you should only
   * https://codeforces.com/problemset/problem/1380/D
   * https://codeforces.com/contest/45/problem/C
   * https://codeforces.com/contest/1492/problem/D
+  * https://codeforces.com/contest/1200/problem/D    (good implementation)
   
   
  Bits :
