@@ -122,7 +122,8 @@ Link to the code part is given after the problem link. However , you should only
    *  https://codeforces.com/problemset/problem/999/E   (hint/prerequisite : SCC's )
    *  https://codeforces.com/problemset/problem/1468/J
    *  https://codeforces.com/problemset/problem/274/B
-
+   *  https://codeforces.com/problemset/problem/1081/D
+   
 
 
  Implementation , ad-hoc , Greedy , Brute-force :
