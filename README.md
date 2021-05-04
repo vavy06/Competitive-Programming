@@ -171,6 +171,7 @@ Link to the code part is given after the problem link. However , you should only
   * https://codeforces.com/contest/1200/problem/D    (good implementation)
   * https://www.codechef.com/problems/STONED
   * https://codeforces.com/contest/1213/problem/E 
+  * https://www.codechef.com/problems/MANRECT
   
   
  Bits :
