@@ -23,6 +23,7 @@ Link to the code part is given after the problem link. However , you should only
   * https://codeforces.com/problemset/problem/1194/D  (hint :  think about winning about losing positions)
   * https://codeforces.com/gym/102911/problem/C   (with some NT )
   * https://codeforces.com/problemset/problem/1190/B
+  * https://codeforces.com/contest/1527/problem/B2
   
   
   DP :
