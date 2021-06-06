@@ -184,6 +184,7 @@ Link to the code part is given after the problem link. However , you should only
  *  https://codeforces.com/contest/1466/problem/E   (OVERFLOWS!! ) 
  *  https://codeforces.com/problemset/problem/1288/D
  *  https://codeforces.com/contest/1054/problem/D
+ *  https://codeforces.com/contest/1523/problem/D   ( prerequisite : SOS  )
  
  
  Combinatorics :
