@@ -56,7 +56,9 @@ Link to the code part is given after the problem link. However , you should only
   *   https://codeforces.com/problemset/problem/687/C
   *   https://codeforces.com/problemset/problem/1433/F
   *  https://codeforces.com/contest/366/problem/C
-  *  
+  *  https://codeforces.com/contest/1528/problem/B
+
+
   
   Number Theory :
   *  https://codeforces.com/contest/1260/problem/C
