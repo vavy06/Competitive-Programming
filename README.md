@@ -58,7 +58,9 @@ Link to the code part is given after the problem link. However , you should only
   *  https://codeforces.com/contest/366/problem/C
   *  https://codeforces.com/contest/1528/problem/B
   *  https://www.codechef.com/LTIME96B/problems/CHESUB
-  
+  *  https://codeforces.com/contest/1155/problem/D
+
+
   
   Number Theory :
   *  https://codeforces.com/contest/1260/problem/C
